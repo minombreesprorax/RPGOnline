@@ -1,6 +1,8 @@
 # RPG Online
 > I'll come up with a better name later.
 
+![Background for V1.0, 80x60 file](https://i.imgur.com/uBt2ZCF.png)
+
 This is a project to make a 2D, pixel-styled game, where you get to make your own worlds using the ingame tools, join servers, play with friends, etc.
 Of course this is a WIP project, and it's still in beta 1.0, in fact, the only playable thing is the main menu. But hey, stuff will get going.
 
